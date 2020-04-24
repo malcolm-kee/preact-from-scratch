@@ -2,8 +2,7 @@
   "name": "preact-from-scratch",
   "version": "0.0.1",
   "description": "Configuring a preact project from scratch, including webpack and babel etc",
-  "main": "index.js",
-  "author": "Malcolm Kee",
+  "author": "Malcolm Kee <malcolm.keeweesiong@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
